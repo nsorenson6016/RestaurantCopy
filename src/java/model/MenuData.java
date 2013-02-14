@@ -10,6 +10,8 @@ import java.util.List;
 /**
  *
  * @author Neal
+ * 
+ * Fake database of menu items, set as a List
  */
 public class MenuData {
      
