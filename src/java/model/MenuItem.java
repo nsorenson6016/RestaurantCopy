@@ -36,7 +36,7 @@ public class MenuItem {
     }
     
     public String getValue() {
-        return itemName;
+        return value;
     }
 
     public void setValue() {
